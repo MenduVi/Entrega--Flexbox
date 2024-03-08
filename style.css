@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+
+:root{
+    --primary-color: rgb(15, 6, 6);
+    --secondary-color: rgb(230, 224, 224)
+
+}
+*{
+    font-family: "Cinzel Decorative", serif;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+#seccion1 {
+    background-image: url(./assets/fondo.png); color: rgba(0, 0, 0, 0.349);
+    display: flex;
+   
+    
+}
+main >section > img {
+    height: 400px;
+
+}
